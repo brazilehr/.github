@@ -1,7 +1,7 @@
 # BrazilEHR
 
 <p align="center">
-  <img src="../logo.png" alt="BrazilEHR Logo" width="200"/>
+  <img src="./logo.png" alt="BrazilEHR Logo" width="200"/>
 </p>
 
 <p align="center">
